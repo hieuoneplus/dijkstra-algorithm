@@ -1,4 +1,5 @@
 import javax.swing.JPanel;
+
 import java.awt.BorderLayout;
 
 public class GraphAlgorithm extends JPanel {

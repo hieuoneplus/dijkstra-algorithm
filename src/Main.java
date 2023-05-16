@@ -9,12 +9,5 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
-
-        // Do something after the window is displayed
-        doSomething();
-    }
-
-    public static void doSomething() {
-        // Do something here
     }
 }
